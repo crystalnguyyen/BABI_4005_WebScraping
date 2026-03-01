@@ -23,7 +23,7 @@ BABI_4005_WebScraping/
 │   ├── raw_posts.csv               # Scraped Reddit posts (600 posts)
 │   └── sentiment_scores.csv        # Posts with VADER sentiment scores
 │
-├── scripts/
+├── notebooks/
 │   ├── lululemon_sentiment_scraper.ipynb      # Scrapes Reddit posts
 │   ├── lululemon_sentiment_analysis.ipynb     # VADER sentiment analysis
 │   └── lululemon_sentiment_visualisation.ipynb # Charts and findings
@@ -33,8 +33,7 @@ BABI_4005_WebScraping/
 │   ├── 02_boxplot_sentiment.png	# Boxplot: Sentiment Score Distribution by Sentiment Category
 │   ├── 03_scatterplot_sentiment.png	# Scatter Plot: Upvote Score vs Sentiment Score
 │   └── sentiment_summary_table.csv	# Summarizes different statistics across sentiment categories
-└── README.md 
-
+└── README.md
 ---
 
 ## How to Run
