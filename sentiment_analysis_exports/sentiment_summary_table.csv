@@ -1,0 +1,5 @@
+,count,percent_of_total,min_score,median_score,mean_score,max_score
+negative,74,12.3,0,10.0,43.15,461
+neutral,67,11.2,0,41.0,56.61,320
+positive,459,76.5,0,43.0,66.39,874
+overall,600,100.0,0,38.0,62.43,874
